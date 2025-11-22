@@ -2,7 +2,5 @@ requirements.txt
 streamlit
 pymupdf
 python-docx
-pytesseract
 pillow
 numpy
-opencv-python-headless
